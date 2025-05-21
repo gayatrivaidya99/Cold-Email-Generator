@@ -1,0 +1,17 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# Environment variables / API keys
+.env
+
+# ChromaDB & local data
+vectorstore/
+chromadb_data/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
